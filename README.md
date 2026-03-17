@@ -14,4 +14,4 @@ This is my repository for an 84-key mechanical keyboard that I can use in my dai
 
 ## BOM:
 
-<img width="710" height="228" alt="image" src="https://github.com/user-attachments/assets/ff59e2db-d704-4f9d-97bb-baaa28c63a6e" />
+<img width="807" height="366" alt="Screenshot 2026-03-16 203144" src="https://github.com/user-attachments/assets/d9e4534b-6a25-4702-9b9d-7e042eda0a16" />
